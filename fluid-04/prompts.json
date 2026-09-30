@@ -1,0 +1,31 @@
+{
+  "generator": "Built-in image_gen",
+  "base": "STRICT MATERIAL-ONLY EDIT of image 1. LOCK ALL GEOMETRY of the original poker chip icon: identical round circular cylindrical chips, flat planar faces, perfectly even circular rims, same thickness, diameter, bevels, chip counts, three stack heights, positions, loose chips, leaning front chip angle, camera and silhouette. Preserve exactly the original 100 numeral shape and placement and small spades and segmented rim pattern. NO reshaping, no folds, no ribbons, no waves, no organic deformation, no warping, no melting, no fabric, no protruding veins. Image 2 is ONLY a reference for the optical surface material: translucent pearlescent gray-white sheen, delicate gold branching lines, restrained tiny embedded gold flecks. Translate its visual texture into FLAT smooth surfaces of the EXISTING unchanged chip geometry. Any silky-looking patterns must be purely internal optical color patterns, never physical folds. Replace black marble with new material; retain restrained gold metal edges. Modern premium poker achievement icon readable on light and dark themes. Transparent PNG alpha, square 512x512, no floor backdrop particles or extra text. Material palette: ",
+  "variants": [
+    [
+      "26-pearl-gold",
+      "Перламутр и золотые линии",
+      "Milky pearl-white slightly translucent glass with pale gray silky optical swirls INSIDE perfectly flat surfaces, fine champagne gold branching inlay."
+    ],
+    [
+      "27-smoke-gold",
+      "Дымчатое стекло и золото",
+      "Light smoky silver glass with soft silky optical gradients inside flat surfaces, delicate warm gold branching inlay, no near-black regions."
+    ],
+    [
+      "28-aqua-fluid",
+      "Аквамарин и золотые линии",
+      "Pale seafoam aqua glass with subtle pearlescent optical swirls inside flat surfaces and delicate champagne gold branching inlay."
+    ],
+    [
+      "29-lilac-rose",
+      "Лавандовый перламутр",
+      "Pale lavender silvery pearl glass, subtle optical iridescence and delicate rose-gold branching inlay on perfectly flat surfaces."
+    ],
+    [
+      "30-ivory-opal",
+      "Молочный опал и золото",
+      "Warm ivory opalescent glass, subtle peach cyan play of color inside flat surfaces, delicate honey-gold branching inlay."
+    ]
+  ]
+}
