@@ -1,0 +1,21 @@
+{
+  "generator": "Built-in image_gen",
+  "base": "STRICT MATERIAL-ONLY EDIT. Image 1 is poker-chip COMPOSITION and GEOMETRY reference: preserve round circular solid cylindrical chips, planar faces, uniform thickness, original bevels and segmented rims, three stacks with tall center rear and lower left/right, loose chips below, leaning front chip with exact numeral \"100\" and small spades. Do not change shapes, stack heights, arrangement or camera. Image 2 is MATERIAL/LIGHT reference ONLY: finely textured dark metal, luminous blue engraved inlays, crisp silver rim, cool cinematic product lighting. Transfer this metal and luminous engraving treatment to original poker chips; do NOT copy ring hole, rune letters, pedestal, smoke or scene background. Only symbols allowed are original spades and 100. Geometric engraved lines may decorate rims, no runes or additional text. No marble, veins, wave shapes, melting, floating parts. Retain dark metal but keep edges readable against both white and dark backgrounds, controlled emissive details, no surrounding glow haze or particles. Entire stack sharply focused. Transparent PNG alpha, square 512x512 with clear margin, no floor backdrop or watermark. Material variant: ",
+  "variants": [
+    [
+      "32-blue-steel",
+      "Воронёная сталь и голубое свечение",
+      "Blued gunmetal steel bodies with finely brushed texture, cool polished silver edges, ice-blue luminous inlaid 100 and spades, thin ice-blue illuminated concentric rim grooves."
+    ],
+    [
+      "33-teal-titanium",
+      "Титан и бирюзовое свечение",
+      "Medium graphite titanium bodies, polished platinum edges, turquoise luminous inlaid 100 and spades, fine teal illuminated concentric rim grooves."
+    ],
+    [
+      "34-indigo-chrome",
+      "Чёрный хром и индиго",
+      "Dark cool chrome bodies with controlled silver highlights, polished steel edges, blue-violet luminous inlaid 100 and spades, fine indigo illuminated concentric rim grooves."
+    ]
+  ]
+}
