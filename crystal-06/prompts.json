@@ -1,0 +1,22 @@
+{
+  "generator": "Built-in imagegen",
+  "mode": "reference image edit",
+  "prompt": "STRICT MATERIAL ONLY edit. Image 1 fixes the poker chip geometry and arrangement: preserve perfectly ROUND solid cylindrical chips, flat circular faces, uniform thickness, original circular bevels and segmented rim design, three stacks tall center rear and lower left/right, loose chips below and leaning front chip bearing EXACTLY \"100\" with original spade motifs. Do not change silhouette or chip shape or composition. Image 2 is MATERIAL reference ONLY: transparent optical crystal, blue light contained inside, sparse suspended golden micro-inclusions, polished clear refraction. Translate these optical qualities into the existing unchanged round chips. NO pyramid shapes, no triangular chip faces, no butterflies, no floor, no scene background, no outside floating particles. Crystal chips must have clearly visible polished contours and internally refracted surfaces that work on both light and dark UI. No black marble or stone veins. Keep front number readable and opaque metal. Entire object in focus, refined premium mobile poker achievement. Transparent PNG alpha, square 512x512 with clear margin. Only text 100, no watermark. Material variant: ",
+  "variants": [
+    [
+      "35-ice-crystal",
+      "Ледяной кристалл и платина",
+      "Nearly colorless ice-blue optical crystal chip bodies, polished platinum segmented edges, bright cyan light suspended within glass and sparse tiny gold inclusions, solid silver 100 with dark blue thin outline."
+    ],
+    [
+      "36-sapphire-crystal",
+      "Сапфировый кристалл и золото",
+      "Transparent deep sapphire-blue optical crystal chip bodies, narrow champagne gold segmented edges, bright electric blue internal light with sparse gold inclusions. Solid gold 100. Keep light transmission and visible interior depth rather than opaque navy."
+    ],
+    [
+      "37-aqua-crystal",
+      "Аквамариновый кристалл и розовое золото",
+      "Pale transparent aquamarine optical crystal chip bodies, polished rose-gold segmented edges, turquoise internal light and sparse tiny warm gold inclusions. Solid rose-gold 100 with dark teal fine outline."
+    ]
+  ]
+}
